@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Project_1_Ahmed_Ezz_Amr_Ismail",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Control_Flow.xaml"
+}
